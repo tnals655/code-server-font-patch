@@ -47,3 +47,10 @@
   font-weight: 300 700;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'D2Coding';
+  src: url('fonts/D2Coding-Ver1.3.2-20180524-all.ttc') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
